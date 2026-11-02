@@ -1,0 +1,8 @@
+
+GOAL: Produce a short competitive-landscape brief for Figma
+
+=== PLANNING TRACE ===
+[1] Search for the main competitors of Figma in the UI/UX design and collaborative design tool market, such as Sketch, Adobe XD, InVision, Axure, and UXPin.  (tool: web_search)
+[2] Gather current pricing plans, user base estimates, and market share percentages for Figma and each identified competitor from recent reports and official sources.  (tool: web_search)
+[3] Calculate the average monthly subscription price across the competitors and the percentage difference between Figma's pricing and the market average.  (tool: calculator)
+[4] Search for the latest news, feature releases, and strategic moves (e.g., acquisitions, partnerships) of Figma and its competitors to understand recent competitive dynamics.  (tool: web_search)

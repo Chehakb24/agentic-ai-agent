@@ -1,0 +1,4 @@
+
+GOAL: Produce a short competitive-landscape brief for Notion
+
+=== PLANNING TRACE ===

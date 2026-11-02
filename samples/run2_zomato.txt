@@ -1,0 +1,5 @@
+
+GOAL: Produce a short competitive-landscape brief for Zomato
+
+=== PLANNING TRACE ===
+[1] Search for Zomato's primary competitors in the online food delivery market and collect recent market share figures for each.  (tool: web_search)

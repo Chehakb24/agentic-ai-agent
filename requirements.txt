@@ -1,0 +1,5 @@
+groq
+ddgs
+python-dotenv
+pytest
+streamlit
